@@ -1,4 +1,4 @@
-# 🏪 InstantPick Admin Panel
+# 🏪 InstantPick Admin Panel. 
 
 Professional admin dashboard for InstantPick platform - Manage users, shops, products, and orders with ease.
 
